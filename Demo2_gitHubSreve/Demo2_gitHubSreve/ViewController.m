@@ -18,6 +18,7 @@
     [super viewDidLoad];
     NSLog(@"add first");
     NSLog(@"add two");
+    NSLog(@"add three");
 }
 
 - (void)didReceiveMemoryWarning {
